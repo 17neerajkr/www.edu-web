@@ -29,7 +29,11 @@
     --box-shadow: 0 2rem 3rem var(--clr-light);
   
   }
-
+  .ANALYSIS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
 
   *{
