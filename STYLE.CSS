@@ -29,7 +29,30 @@
     --box-shadow: 0 2rem 3rem var(--clr-light);
   
   }
+
+
+
+  .edubox{
+    
+        border-radius: 1vb;
+        box-sizing: border-box;
+        box-sizing: content-box;
+
+  }
+
+  .time{
+    display: grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .ANALYSIS{
+    text-decoration: underline;
+    display: inline; 
+    display: grid;
+    margin-top: 2vh;
+    margin-left: 2vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -110,6 +133,7 @@
   }
   
   .danger {
+    
     color: var(--clr-danger);
   }
   
